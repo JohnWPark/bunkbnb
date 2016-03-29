@@ -1,28 +1,13 @@
-== README
+BunkBnB is a crowdsourcing app heavily influenced by AirBnB.  It is built in Ruby on Rails, BootStrap for styling, and jQuery for datepicker and AJAX calls to the Google Maps API.  As of now, users have the ability to sign up, login (with email or Facebook), become a host, and make reservations.  
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Unfortunately, I am currently having difficulty deloying on Heroku and am using 'ngrok' (https://ngrok.com/) to temporarily make my web app available for viewing until I can work out the kinks.  I will make all attempts to have my local server up and running between the hours of 9:00 AM - 5:00 PM EST during the weekends.  Apologies for the inconvenience, although rest assured, it is only temporary.
 
-Things you may want to cover:
+*** Deployment instructions
+  The web app can be seen at http://614a234a.ngrok.io/ until further notice. ***
 
 * Ruby version
+  2.2.3
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+* Rails version
+  4.2.4
+  
